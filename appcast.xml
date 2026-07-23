@@ -6,12 +6,22 @@
     <description>Wisp — iOS GPS location simulator. Update feed.</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.2</title>
+      <sparkle:version>152</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 23 Jul 2026 16:56:33 +0000</pubDate>
+      <description><![CDATA[<h3>Wisp 1.5.2</h3><ul><li>Refreshed accent color (now orange).</li></ul>]]></description>
+      <enclosure url="https://github.com/msannikov03/wisp-releases/releases/download/v1.5.2/Wisp-1.5.2.dmg"
+                 sparkle:edSignature="6E8e1GtaRbD8FL4ue02kDviWr6Ukiwb9d68sjnD8ZW1JT/4FFDxWF7GDMd/ZdBDsYOrh+Qcu9umuANbp7UyuAA==" length="20570145" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5.1</title>
       <sparkle:version>151</sparkle:version>
       <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 21 Jul 2026 17:26:44 +0000</pubDate>
-      <description><![CDATA[<h3>Wisp 1.5.1</h3><ul><li>Adds an About panel that shows the app version.</li><li>First release delivered via automatic update.</li></ul>]]></description>
+      <pubDate>Thu, 23 Jul 2026 16:56:33 +0000</pubDate>
+      <description><![CDATA[<h3>Wisp 1.5.1</h3><ul><li>Adds an About panel showing the app version.</li></ul>]]></description>
       <enclosure url="https://github.com/msannikov03/wisp-releases/releases/download/v1.5.1/Wisp-1.5.1.dmg"
                  sparkle:edSignature="MRJXymqt/pbhatGpiQMcBb/pTiS2ojuzUv6u5/ee4jqFELUC0KXTfSnUTyR7BVs7MFXk0ar+b6rRW+N+yjPzCA==" length="20580996" type="application/octet-stream" />
     </item>
@@ -20,8 +30,8 @@
       <sparkle:version>150</sparkle:version>
       <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 21 Jul 2026 17:26:44 +0000</pubDate>
-      <description><![CDATA[<h3>Wisp 1.5.0</h3><ul><li>Automatic updates (Sparkle) + hardened license enforcement.</li></ul>]]></description>
+      <pubDate>Thu, 23 Jul 2026 16:56:33 +0000</pubDate>
+      <description><![CDATA[<h3>Wisp 1.5.0</h3><ul><li>Automatic updates + hardened license enforcement.</li></ul>]]></description>
       <enclosure url="https://github.com/msannikov03/wisp-releases/releases/download/v1.5.0/Wisp-1.5.0.dmg"
                  sparkle:edSignature="e+4/cqRUsgKXLUoZ2fxqVQBqXKAVCNiMcs2rsEYQZ+vPIsJ9EK1EIrIxWi9RcdphpmZQz6UqxFCCFYOVxKcdCQ==" length="20580919" type="application/octet-stream" />
     </item>
