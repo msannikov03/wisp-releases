@@ -6,6 +6,16 @@
     <description>Wisp — iOS GPS location simulator. Update feed.</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.7</title>
+      <sparkle:version>157</sparkle:version>
+      <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 02 Sep 2026 12:12:52 +0000</pubDate>
+      <description><![CDATA[<h3>Wisp 1.5.7</h3><ul><li>Map now uses OpenFreeMap — no API key, no rate limits, so it can't be throttled into an "API key required" screen.</li><li>Basemap picker: Dark / Light / Streets, with an automatic fallback.</li></ul>]]></description>
+      <enclosure url="https://github.com/msannikov03/wisp-releases/releases/download/v1.5.7/Wisp-1.5.7.dmg"
+                 sparkle:edSignature="bj+4sFAh/ea1JJvHHesf14B7KHk/7411hrVrFVo++gUpDyN6FCdBvdfco2ZHgscpw25I+mWihVfjjDQ3unVjDg==" length="20632290" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.5.6</title>
       <sparkle:version>156</sparkle:version>
       <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
